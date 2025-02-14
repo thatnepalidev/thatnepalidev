@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programming since 2023<br>📚 I'm currently learning nodeJS<br>🎯 Goals: To learn more and become a successful developer</p>
+<p align="left">✨ Programming since 2023<br>📚 I'm currently learning nodeJS<br>🎯 Goals: To learn more and become a successful developer<br>👨‍💻 All of my projects are available at https://github.com/thatnepalidev?tab=repositories</p>
 
 ###
 
